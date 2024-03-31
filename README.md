@@ -1,5 +1,5 @@
 # Roman-Numerals
-Coding Challenge for BYU OIT AppEng. Converts user input from decimal to Roman numerals, and vice versa.
+Converts user input 1 to 3999 from decimal to Roman numerals, and vice versa. 
 
 Compiled using C++17. 
 
